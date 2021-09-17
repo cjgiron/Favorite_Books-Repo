@@ -1,0 +1,9 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logout {
+    margin-right: 2%;
+    margin-top: 1%;
+}
